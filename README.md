@@ -71,6 +71,8 @@ The dataset contains:
 
 ## 1. 📌 Executive Overview
 
+<img src="Images/Executive Overview.png" alt="Executive Overview">
+
 ### 🎯 Focus Areas
 
 - Overall churn performance
@@ -97,6 +99,8 @@ The dataset contains:
 
 ## 2. 👥 Customer Behavior
 
+<img src="Images/Customer Behavior.png" alt="Customer Behavior">
+
 ### 🎯 Focus Areas
 
 - Customer behavior patterns
@@ -122,6 +126,8 @@ The dataset contains:
 
 
 ## 3. 💵 Revenue Insights
+
+<img src="Images/Revenue Insights.png" alt="Revenue Insights">
 
 ### 🎯 Focus Areas
 
